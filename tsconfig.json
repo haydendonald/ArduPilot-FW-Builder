@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "./dist",
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "files":[
+      "./lib/utility.ts",
+      "./lib/definitions.ts",
+      "./lib/builder.ts",
+      "./lib/process.ts",
+      "./lib/logger.ts",
+      "./index.ts"
+    ]
+}
